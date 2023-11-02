@@ -12,6 +12,11 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxt/ui": "^2.9.0",
-    "nuxt": "^3.7.4"
+    "nuxt": "^3.7.4",
+    "prisma": "^5.5.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.5.2",
+    "zod": "^3.22.4"
   }
 }
